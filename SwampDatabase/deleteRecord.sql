@@ -1,0 +1,5 @@
+DELETE FROM User;
+DELETE FROM User_Account;
+DELETE FROM Bin;
+DELETE FROM Collected_Waste;
+DELETE FROM User_Bin;
